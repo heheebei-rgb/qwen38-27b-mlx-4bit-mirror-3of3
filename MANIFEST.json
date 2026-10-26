@@ -1,0 +1,88 @@
+{
+ "model-00003-of-00003.safetensors": {
+  "sha256": "1038989bed1346ecdb541a45c078df2aae99a9509f35bfd51e7a04802a5d8402",
+  "bytes": 5357087747,
+  "parts": [
+   "chunks/model-00003-of-00003.safetensors.part-00",
+   "chunks/model-00003-of-00003.safetensors.part-01",
+   "chunks/model-00003-of-00003.safetensors.part-02",
+   "chunks/model-00003-of-00003.safetensors.part-03",
+   "chunks/model-00003-of-00003.safetensors.part-04",
+   "chunks/model-00003-of-00003.safetensors.part-05",
+   "chunks/model-00003-of-00003.safetensors.part-06",
+   "chunks/model-00003-of-00003.safetensors.part-07",
+   "chunks/model-00003-of-00003.safetensors.part-08",
+   "chunks/model-00003-of-00003.safetensors.part-09",
+   "chunks/model-00003-of-00003.safetensors.part-10",
+   "chunks/model-00003-of-00003.safetensors.part-11",
+   "chunks/model-00003-of-00003.safetensors.part-12",
+   "chunks/model-00003-of-00003.safetensors.part-13",
+   "chunks/model-00003-of-00003.safetensors.part-14",
+   "chunks/model-00003-of-00003.safetensors.part-15",
+   "chunks/model-00003-of-00003.safetensors.part-16",
+   "chunks/model-00003-of-00003.safetensors.part-17",
+   "chunks/model-00003-of-00003.safetensors.part-18",
+   "chunks/model-00003-of-00003.safetensors.part-19",
+   "chunks/model-00003-of-00003.safetensors.part-20",
+   "chunks/model-00003-of-00003.safetensors.part-21",
+   "chunks/model-00003-of-00003.safetensors.part-22",
+   "chunks/model-00003-of-00003.safetensors.part-23",
+   "chunks/model-00003-of-00003.safetensors.part-24",
+   "chunks/model-00003-of-00003.safetensors.part-25",
+   "chunks/model-00003-of-00003.safetensors.part-26",
+   "chunks/model-00003-of-00003.safetensors.part-27",
+   "chunks/model-00003-of-00003.safetensors.part-28",
+   "chunks/model-00003-of-00003.safetensors.part-29",
+   "chunks/model-00003-of-00003.safetensors.part-30",
+   "chunks/model-00003-of-00003.safetensors.part-31",
+   "chunks/model-00003-of-00003.safetensors.part-32",
+   "chunks/model-00003-of-00003.safetensors.part-33",
+   "chunks/model-00003-of-00003.safetensors.part-34",
+   "chunks/model-00003-of-00003.safetensors.part-35",
+   "chunks/model-00003-of-00003.safetensors.part-36",
+   "chunks/model-00003-of-00003.safetensors.part-37",
+   "chunks/model-00003-of-00003.safetensors.part-38",
+   "chunks/model-00003-of-00003.safetensors.part-39",
+   "chunks/model-00003-of-00003.safetensors.part-40",
+   "chunks/model-00003-of-00003.safetensors.part-41",
+   "chunks/model-00003-of-00003.safetensors.part-42",
+   "chunks/model-00003-of-00003.safetensors.part-43",
+   "chunks/model-00003-of-00003.safetensors.part-44",
+   "chunks/model-00003-of-00003.safetensors.part-45",
+   "chunks/model-00003-of-00003.safetensors.part-46",
+   "chunks/model-00003-of-00003.safetensors.part-47",
+   "chunks/model-00003-of-00003.safetensors.part-48",
+   "chunks/model-00003-of-00003.safetensors.part-49",
+   "chunks/model-00003-of-00003.safetensors.part-50",
+   "chunks/model-00003-of-00003.safetensors.part-51",
+   "chunks/model-00003-of-00003.safetensors.part-52",
+   "chunks/model-00003-of-00003.safetensors.part-53",
+   "chunks/model-00003-of-00003.safetensors.part-54",
+   "chunks/model-00003-of-00003.safetensors.part-55",
+   "chunks/model-00003-of-00003.safetensors.part-56",
+   "chunks/model-00003-of-00003.safetensors.part-57",
+   "chunks/model-00003-of-00003.safetensors.part-58",
+   "chunks/model-00003-of-00003.safetensors.part-59"
+  ]
+ },
+ "tokenizer.json": {
+  "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+  "bytes": 19989325
+ },
+ "tokenizer_config.json": {
+  "sha256": "47a7a8371379b07650b22f3c8a78c32fed85c4e35ea88e3da0c4b7a7611e8082",
+  "bytes": 10404
+ },
+ "vocab.json": {
+  "sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003",
+  "bytes": 6722759
+ },
+ "config.json": {
+  "sha256": "14b65a0ee06517060a6bbd979bb1a8ff54e7b304b1a1f01d54344b88b8285e85",
+  "bytes": 4932
+ },
+ "chat_template.jinja": {
+  "sha256": "c3cf9e34abf4f9e36c2d72165aa9c132d3e2a725b6c2586aaa3a8af9d7a81041",
+  "bytes": 8952
+ }
+}
